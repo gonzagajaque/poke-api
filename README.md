@@ -29,7 +29,7 @@ Para obter os dados dos Pokémons foi utilizada a [PokéAPI](https://pokeapi.co/
 
 ## :hammer: Tecnologias
 
-This project was developed with the following technologies:
+Este projeto foi desenvolvido com as seguintes tecnologias:
 
 - [Expo](https://expo.io/)
 - [React Native](https://reactnative.dev/)
